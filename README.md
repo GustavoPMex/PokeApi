@@ -1,19 +1,36 @@
-# pokex_composition
 
-## Project setup
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/GustavoPMex/social_network.git">
+    <img src="https://i.imgur.com/b67v87R.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h1 align="center">PokeApi</h1>
+
+</p>
+
+
+## About the project
 ```
-npm install
+This is a practice about the classic API named "PokeApi". It used Vue Composition
+
+https://pokeapi.co/
 ```
 
-### Compiles and hot-reloads for development
+### Project setup
+```
+npm i
+```
+
+### Run project
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<br>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contact
+Twitter - [@gustavopmex](https://twitter.com/gustavopmex)
+
+LinkedIn - [Gustavo Alonso Pacheco Mex](https://www.linkedin.com/in/gustavopmex/)
